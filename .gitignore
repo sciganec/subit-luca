@@ -194,3 +194,5 @@ jupyter_notebook_config.py
 
 # mypy
 mypy.ini
+
+test_luca.py
